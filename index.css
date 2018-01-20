@@ -1,0 +1,35 @@
+#div1 {
+  background-color: lightblue;
+  width: 500px;
+  height: 250px;
+  border: solid;
+  border-color: grey;
+  position: relative;
+}
+
+#div2 {
+  width: 60%;
+  height: 60%;
+  margin: auto;
+}
+
+#div3 {
+  width: 50%;
+  height: 50%;
+  margin: auto;
+}
+
+.orange-div {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: orange;
+  border: solid;
+  border-color: grey;
+}
+
+.div-text {
+  text-align: center;
+}
